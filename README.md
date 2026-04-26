@@ -54,5 +54,5 @@ The Streamlit app is built for usability. I split the interface to make it feel 
 
 ---
 
-**Author:** Hasya Patel  
+**Author:** Savan Patel  
 **Tech Stack:** Python, Scikit-learn, Pandas, Streamlit, Pickle

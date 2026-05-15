@@ -6,7 +6,7 @@ This project is a complete machine learning solution designed to automate the cr
 
 The goal was to move beyond simple "Yes/No" answers and provide a data-driven risk score that helps in understanding *why* a loan might be considered high-risk.
 
----
+--
 
 ## Project Structure
 

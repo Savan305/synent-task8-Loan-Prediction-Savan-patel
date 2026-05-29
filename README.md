@@ -14,7 +14,7 @@ The goal was to move beyond simple "Yes/No" answers and provide a data-driven ri
 * **`app.py`**: A production-ready Streamlit interface. It allows users to input applicant details and get an instant, visual risk report.
 * **`loan_model.pkl`**: The "brain" of the app. This isn't just the model; it’s a serialized dictionary containing the trained classifier, the feature scalers, and the encoders to ensure the UI processes data exactly like the training environment.
 
----
+--
 
 ## Technical Workflow
 

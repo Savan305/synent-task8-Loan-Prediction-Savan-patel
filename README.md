@@ -52,7 +52,7 @@ The Streamlit app is built for usability. I split the interface to make it feel 
 2. **Model Training:** Run all cells in `notebook.ipynb` to generate the updated `loan_model.pkl`.
 3. **Launch UI:** Execute `streamlit run app.py` in your terminal.
 
----
+--
 
 **Author:** Savan Patel  
 **Tech Stack:** Python, Scikit-learn, Pandas, Streamlit, Pickle

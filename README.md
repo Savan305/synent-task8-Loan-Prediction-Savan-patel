@@ -6,7 +6,7 @@ This project is a complete machine learning solution designed to automate the cr
 
 The goal was to move beyond simple "Yes/No" answers and provide a data-driven risk score that helps in understanding *why* a loan might be considered high-risk.
 
--
+--
 ## Project Structure
 
 * **`notebook.ipynb`**: This is where the core engineering happens. It covers everything from raw data ingestion and outlier handling to training the final classification model.

@@ -35,7 +35,7 @@ The Streamlit app is built for usability. I split the interface to make it feel 
 * **Financials (Main Panel):** Focuses on the "moving parts" like Income and Loan Amount.
 * **Real-time Calculation:** The app calculates the debt-to-income ratio on the fly before passing it to the model for a prediction.
 
----
+--
 
 ## Key Insights & Features
 
